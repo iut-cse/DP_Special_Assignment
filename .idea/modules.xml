@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DP_Special_Assignment.iml" filepath="$PROJECT_DIR$/.idea/DP_Special_Assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/VizHouse/VizHouse.iml" filepath="$PROJECT_DIR$/VizHouse/VizHouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VizHouse/VizHouse2.iml" filepath="$PROJECT_DIR$/VizHouse/VizHouse2.iml" />
     </modules>
   </component>
 </project>
